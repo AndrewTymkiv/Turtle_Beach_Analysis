@@ -1,6 +1,6 @@
 # Security Analysis - Turtle Beach Corp (NASDAQ: HEAR)
 ---
-(*All data as of April 2021*)
+(*All data as of March 2021*)
 ## Overview
 - About the company
 - Price increase during COVID
