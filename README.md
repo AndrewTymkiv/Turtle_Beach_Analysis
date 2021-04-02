@@ -13,7 +13,7 @@
 - Turtle Beach did not report a positive diluted EPS until 2018, when diluted EPS was reported at $2.74. This value dropped to $1.04 in 2019 but jumped to $2.37 in 2020. 
 - Looking on the Cash Flow Statement, the first thing that sticks out is the upward trending cash flow from operations, which first turned positive at $3M in 2017, and was reported at $51M in 2020.
 - Since Turtle Beach began realizing a positive net income in 2018, capital expenditures have remained relatively constant, ranging between 10-15% of net income.
-- Turtle Beach did not achieve a positive until 2017. Following an outlying 338% in 2018, the company reported a 33% ROE in 2019 and 43.1% in 2020.
+- Turtle Beach did not achieve a positive ROE until 2017. Following an outlying 338% in 2018, the company reported a 33% ROE in 2019 and 43.1% in 2020.
 ---
 ## Solvency
 - Between 2014-2019, Turtle Beach's total cash & short-term investments were reported between $5-$8M. In 2020, the company reported a large increase with $47M in total cash and short-term investments. Current liabilities increased slightly due to increases in accounts payable and accrued expenses, however it is worth noting that the company reported no short-term borrowings for the first time. The highlight of Turtle Beach's Balance Sheet is the fact that they have had zero long-term debt for the past 3 years.
