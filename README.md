@@ -2,8 +2,8 @@
 ---
 (*All data as of March 2021*)
 ## Overview
-- About the company
-- Price increase during COVID
+- Turtle Beach Corporation is a staple in the video gaming accesory world. Arguably the most popular maker of gaming headsets, the company also produces mouses and keyboards for video games. When the pandemic hit North America last March, Turtle Beach's stock was as low as $4.55, and as of March 30th, 2021, the stock is priced at $24.83, which is approximately a 446% increase. The company has many good indications in their financial statements which have been highlighted below.
+
 ---
 ## Profitability
 
@@ -53,4 +53,13 @@
 
 ---
 ## Additional Factors
-- PEG ratio?
+- Currently priced at over $27, Turtle Beach does not seem to be overvalued with a P/E ratio of 8.6
+- Additionally, the company's PEG ratio is 0.5 suggesting it could potentially be undervalued at the moment.
+- Looking at consumer behaviour, there is one important factor to be weary of when considering Turtle Beach's potential growth. The company's sole focus is video gaming accesories, mainly good quality headsets. They had a very strong year financially in 2020 during the pandemic, but this is likely due to people staying home and spending more time on home entertainment products such as video games. It is fair to hypothesize that the pandemic forcing people to stay at home led to more people playing video games, and was a main factor in the company's increased revenue for the year. With vaccinations underway around the world and economies opening back up, it is worth questioning whether or not the demand for Turtle Beach's products will decrease as people begin to spend less time in their homes.
+
+---
+## Summary
+- Turtle Beach has displayed solid growth in their earnings the past few years, especially in 2020. Their revenues are growing at a faster rate than their operating expenses, and their interest expense remains minimal as the company carries very little debt, which is a good sign at least for the near future.
+- Looking at the cash flow statement, Turtle Beach is increasing their cash on hand and net earnings, all while keeping a constant CAPEX.
+- Another attractive highlight of Turtle Beach can be found looking at their returns. Their ROE has remained above 30% the last 3 years, and was reported at 43.1% in 2020.
+- Finally, Turtle Beach's Balance Sheets currently show strong liquidity with a good amount of cash and no long-term debt for the last 3 years. Their debt to equity ratio has been decreasing and was only 5.2% in 2020.
