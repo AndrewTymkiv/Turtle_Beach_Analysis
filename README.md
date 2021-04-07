@@ -48,7 +48,7 @@
 ![current_ratio](https://github.com/AndrewTymkiv/Turtle_Beach_Analysis/blob/main/images/current_ratio.PNG)
 
 #### Debt to Equity
-- Turtle Beach's debt to equity ratios have been sharply declining the past 3 years. Their debt to equity ratio in 2020 was reported at 5.2% while long-term debt to equity was reported at 4.4%. 
+- Turtle Beach's debt to equity ratios have been sharply declining the past 3 years. Their debt to equity ratio in 2020 was reported at 0.05 while long-term debt to equity was reported at 0.04. 
 ![debt_to_equity](https://github.com/AndrewTymkiv/Turtle_Beach_Analysis/blob/main/images/debt_to_equity.PNG)
 
 ---
